@@ -1,0 +1,6 @@
+[build]
+    publish = ".next"
+    functions = "netlify/functions"
+
+[[plugins]]
+    package = "@netlify/plugin-nextjs@4.0.0"
