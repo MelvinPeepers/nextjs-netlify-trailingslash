@@ -3,4 +3,4 @@
     functions = "netlify/functions"
 
 [[plugins]]
-    package = "@netlify/plugin-nextjs@4.0.0"
+    package = "@netlify/plugin-nextjs"
